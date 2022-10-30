@@ -10,5 +10,12 @@
 - 🌱 I’m currently learning Swift/SwiftUI
 - ⚡ Fun fact: tbd
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_inopzfvq.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-plain.svg
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=andrewcousin
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcousin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
