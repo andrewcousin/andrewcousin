@@ -11,7 +11,8 @@
 - ⚡ Fun fact: tbd
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" title="swift plain" alt="swift plain" width="40" height="40"/>&nbsp;
+  My Languages
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
@@ -20,3 +21,4 @@ https://github-readme-streak-stats.herokuapp.com/?user=andrewcousin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcousin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg
