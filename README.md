@@ -1,12 +1,10 @@
 <div id="header" align="center">
-  ###: Hi 👋
+  Hi 👋
 </div>
----
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
----
 
 - 🔭 I’m working towards career changing to an iOS developer
 - 🌱 I’m learning Swift/SwiftUI
@@ -17,7 +15,6 @@
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
 </div>
-
 ---
 
 ### :fire: My Stats :
