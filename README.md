@@ -10,8 +10,11 @@
 - 🌱 I’m currently learning Swift/SwiftUI
 - ⚡ Fun fact: tbd
 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
-  My Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
 </div>
 
@@ -20,5 +23,3 @@ https://github-readme-streak-stats.herokuapp.com/?user=andrewcousin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcousin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg
