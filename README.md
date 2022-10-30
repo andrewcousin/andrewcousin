@@ -18,8 +18,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=andrewcousin
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrewcousin&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcousin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
