@@ -23,6 +23,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrewcousin&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewcousin&show_icons=true&theme=transparent)
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewcousin)](https://github.com/andrewcousin/github-readme-stats)
