@@ -11,8 +11,8 @@
 - ⚡ Fun fact: tbd
 
 <div>
-<img src=https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" title="Swift Plain" alt="Swift Plain" width="40" height="40"/>&nbsp;
- </div>
+<img src=https://github.com/devicons/devicon/blob/master/icons/swift/swift-plain.svg" title="swift plain" alt="swift plain" width="40" height="40"/>&nbsp;
+</div>
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=andrewcousin
