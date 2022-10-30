@@ -1,16 +1,16 @@
 <div id="header" align="center">
-  Hi there 👋
+  ###: Hi 👋
 </div>
+---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
+---
 
-- 🔭 I’m currently working towards career changing to an iOS developer
-- 🌱 I’m currently learning Swift/SwiftUI
-- ⚡ Fun fact: tbd
-
-
+- 🔭 I’m working towards career changing to an iOS developer
+- 🌱 I’m learning Swift/SwiftUI
+- ⚡ Fun fact: noob
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
