@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi
-- 🔭 I’m working towards career changing to an iOS developer
+- 🔭 I’m working towards becoming an iOS developer
 - 🌱 I’m learning Swift/SwiftUI
 ---
 
