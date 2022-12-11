@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+ -->
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrewcousin&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
